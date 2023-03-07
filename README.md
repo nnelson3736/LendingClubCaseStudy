@@ -4,8 +4,8 @@
 
 ## Table of Contents
 * [Dataset](#Dataset)
-* [Types of Analysis](#TypesofAnalysis)
-* [Technologies Used](#TechnologiesUsed)
+* [Types of Analysis](#Types of Analysis)
+* [Technologies Used](#Technologies Used)
 * [Contact](#Contact)
 
 <!-- You can include any other section that is pertinent to your problem -->

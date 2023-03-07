@@ -3,10 +3,10 @@
 
 
 ## Table of Contents
-* [Dataset](#Dataset)
-* [Types of Analysis](#Types of Analysis)
-* [Technologies Used](#Technologies Used)
-* [Contact](#Contact)
+* [Dataset]
+* [Types of Analysis]
+* [Technologies Used]
+* [Contact]
 
 <!-- You can include any other section that is pertinent to your problem -->
 
